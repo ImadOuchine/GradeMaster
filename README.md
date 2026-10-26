@@ -28,10 +28,3 @@ cd GradeMaster
 
 3. Run the application:
 python main.py
-
-## Author
-
-Imad Ouchine
-
-GitHub: https://github.com/ImadOuchine
-
