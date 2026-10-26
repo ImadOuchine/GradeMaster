@@ -1,4 +1,3 @@
-ها هو ملف **
 README.md`*
 # GradeMaster
 
